@@ -1,7 +1,6 @@
 package impressao;
 
 public class HP implements Impressora{
-
     @Override
     public void imprimir(Imprimivel imprimivel) {
         System.out.println("*******************");
